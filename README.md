@@ -1,1 +1,4 @@
-Write a script that runs a C file through the preprocessor and save the result into another file.
+0. Multiple mains
+1. Like, comment, subscribe
+2. This program prints the largest of three integers.
+3. This program converts a date to the day of year
